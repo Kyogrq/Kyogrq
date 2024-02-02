@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-<img src="https://unsplash.com/photos/nebula--hI5dX2ObAs" class="center">
+<img src="https://media.discordapp.net/attachments/1096385726158995488/1202977277072384000/nasa--hI5dX2ObAs-unsplash.jpg?ex=65cf6ae5&is=65bcf5e5&hm=83e48a52cc84c691fb7c755232671b270203755f28fa2e4f160a4ccf52bd1b16&" class="center">
 
 Greetings, I'm Benet, more popularly known online as Kyogrq! 🚀
 
