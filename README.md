@@ -6,7 +6,7 @@ Greetings, I'm Benet, more popularly known online as Kyogrq! 🚀
 
 I'm a developer with a love for the cosmos(I'm not cosmosexual), video editing, diving into code which I barely understand. When I'm not coding or video editing, you can find me experimenting with new technologies(I'm trying to read), engaging in philosophical discussions(I'm playing smash or pass with my friends), or embarking on outdoor adventures(I haven't touched grass in years).
 
-I believe in the power of technology to shape our future and the beauty of the universe to inspire our creativity(That or AI will take over the world and kill us). With each line of code and each star I gaze upon, I seek to make a positive impact on the world around me(i don't I wanna see the world burn).
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+i'm+Kyogrq;A+NoN+Gay"></a></p>
 
 Let's explore the cosmos and code together! 🌌💻
 ## 🌐 Socials:
